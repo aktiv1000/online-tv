@@ -1,0 +1,42 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.tk" resolutions="1x" timestamp="1575574495371">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4016124073" ref="кино:hd:новости:спорт:для-взрослых:детские:развлекательные:музыка:index:հայկական:usa:украинские:познавательные"/>
+    <file name="____.css" crc="4260655758" ref="кино"/>
+    <file name="hd.css" crc="4260655758" ref="hd"/>
+    <file name="_______.css" crc="4260655758" ref="новости"/>
+    <file name="_____.css" crc="105775280" ref="спорт"/>
+    <file name="___-________.css" crc="4260655758" ref="для-взрослых"/>
+    <file name="_______1.css" crc="4260655758" ref="детские"/>
+    <file name="_______________.css" crc="3816739842" ref="развлекательные"/>
+    <file name="______.css" crc="4260655758" ref="музыка"/>
+    <file name="index.css" crc="4260655758" ref="index"/>
+    <file name="________.css" crc="4260655758" ref="հայկական"/>
+    <file name="usa.css" crc="4260655758" ref="usa"/>
+    <file name="__________.css" crc="4260655758" ref="украинские"/>
+    <file name="______________.css" crc="4260655758" ref="познавательные"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="museutils.js" crc="3803043152" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="whatinput.js" crc="86476730" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="museconfig.js" crc="380897831" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="jquery.watch.js" crc="99325471" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="html5shiv.js" crc="4241844378" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+    <file name="require.js" crc="4157109226" ref="кино:музыка:новости:познавательные:հայկական:детские:развлекательные:спорт:hd:украинские:usa:index:для-взрослых"/>
+  </folder>
+  <file name="кино.html" crc="12001076" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="музыка.html" crc="443672227" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="новости.html" crc="120287848" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="познавательные.html" crc="4078793144" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="հայկական.html" crc="4127392049" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="детские.html" crc="85553376" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="развлекательные.html" crc="149157117" seo="true" mt="1575574406989" redirect="true"/>
+  <file name="спорт.html" crc="134945204" seo="true" mt="1575574422070" redirect="true"/>
+  <file name="hd.html" crc="350750035" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="украинские.html" crc="4060378930" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="usa.html" crc="332343387" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="index.html" crc="150072429" seo="true" mt="1575574359972" redirect="true"/>
+  <file name="для-взрослых.html" crc="3880109144" seo="true" mt="1575574359972" redirect="true"/>
+</manifest>
