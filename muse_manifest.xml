@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="online-tv.ml" resolutions="1x" timestamp="1575826172159">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="online-tv.ml" resolutions="1x" timestamp="1575830373002">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="202979502" ref="index"/>
+    <file name="index.css" crc="4106131086" ref="index"/>
     <file name="master_______-a.css" crc="4163729721" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -12,5 +12,5 @@
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
-  <file name="index.html" crc="93159022" seo="true" mt="1575826137998" redirect="true"/>
+  <file name="index.html" crc="363763326" seo="true" mt="1575830356677" redirect="true"/>
 </manifest>
