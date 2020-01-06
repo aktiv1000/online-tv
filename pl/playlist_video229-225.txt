@@ -1,4 +1,0 @@
-{"playlist":[{"comment":"123","playlist":[]},
-	{"comment":"","playlist":[]},
-	{"comment":"","playlist":[]},
-	{"comment":"rbk","file":"http://994fb61d.ottolok.net/iptv/66D5TD3P8AH7SB/106/index.m3u8"}]}
