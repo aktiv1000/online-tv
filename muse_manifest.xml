@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.ml" resolutions="1x" timestamp="1578321702857">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.ml" resolutions="1x" timestamp="1578336804914">
   <folder name="images">
     <file name="600px-mood_bitcoin.jpg" crc="3856168273" ref="crypto">
       <caption webpage="crypto" alt=""/>
@@ -34,10 +34,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3898707748" ref="index"/>
-    <file name="master_a-master.css" crc="121056076" ref="wallet:crypto:index"/>
-    <file name="wallet.css" crc="460417498" ref="wallet"/>
-    <file name="crypto.css" crc="4194361107" ref="crypto"/>
+    <file name="index.css" crc="433936275" ref="index"/>
+    <file name="master_a-master.css" crc="258312894" ref="wallet:crypto:index"/>
+    <file name="wallet.css" crc="3971731615" ref="wallet"/>
+    <file name="crypto.css" crc="3776870669" ref="crypto"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crypto:wallet"/>
@@ -48,7 +48,7 @@
     <file name="require.js" crc="4157109226" ref="index:crypto:wallet"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="crypto:wallet"/>
   </folder>
-  <file name="index.html" crc="4032826558" seo="true" mt="1578321661665" redirect="true"/>
-  <file name="crypto.html" crc="4285193683" seo="true" mt="1578321701641" redirect="true"/>
-  <file name="wallet.html" crc="3865239503" seo="true" mt="1578321701811" redirect="true"/>
+  <file name="index.html" crc="3958171809" seo="true" mt="1578336781629" redirect="true"/>
+  <file name="crypto.html" crc="3909138156" seo="true" mt="1578336781629" redirect="true"/>
+  <file name="wallet.html" crc="492323565" seo="true" mt="1578336781629" redirect="true"/>
 </manifest>
