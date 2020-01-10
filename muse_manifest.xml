@@ -1,4 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.ml" resolutions="1x" timestamp="1578336804914">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.ml" resolutions="1x" timestamp="1578686304144">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="428594925" ref="crypto:index:wallet"/>
+    <file name="crypto.css" crc="3894142846" ref="crypto"/>
+    <file name="index.css" crc="3895032100" ref="index"/>
+    <file name="wallet.css" crc="4208202536" ref="wallet"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crypto:wallet"/>
+    <file name="museutils.js" crc="3803043152" ref="index:crypto:wallet"/>
+    <file name="whatinput.js" crc="86476730" ref="index:crypto:wallet"/>
+    <file name="museconfig.js" crc="380897831" ref="index:crypto:wallet"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:crypto:wallet"/>
+    <file name="require.js" crc="4157109226" ref="index:crypto:wallet"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="crypto:wallet"/>
+  </folder>
   <folder name="images">
     <file name="600px-mood_bitcoin.jpg" crc="3856168273" ref="crypto">
       <caption webpage="crypto" alt=""/>
@@ -32,23 +48,7 @@
       <caption webpage="wallet" alt=""/>
     </file>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="433936275" ref="index"/>
-    <file name="master_a-master.css" crc="258312894" ref="wallet:crypto:index"/>
-    <file name="wallet.css" crc="3971731615" ref="wallet"/>
-    <file name="crypto.css" crc="3776870669" ref="crypto"/>
-  </folder>
-  <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crypto:wallet"/>
-    <file name="museutils.js" crc="3803043152" ref="index:crypto:wallet"/>
-    <file name="whatinput.js" crc="86476730" ref="index:crypto:wallet"/>
-    <file name="museconfig.js" crc="380897831" ref="index:crypto:wallet"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:crypto:wallet"/>
-    <file name="require.js" crc="4157109226" ref="index:crypto:wallet"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="crypto:wallet"/>
-  </folder>
-  <file name="index.html" crc="3958171809" seo="true" mt="1578336781629" redirect="true"/>
-  <file name="crypto.html" crc="3909138156" seo="true" mt="1578336781629" redirect="true"/>
-  <file name="wallet.html" crc="492323565" seo="true" mt="1578336781629" redirect="true"/>
+  <file name="index.html" crc="274542458" seo="true" mt="1578686182140" redirect="true"/>
+  <file name="crypto.html" crc="3945394768" seo="true" mt="1578686182140" redirect="true"/>
+  <file name="wallet.html" crc="4036488088" seo="true" mt="1578686182140" redirect="true"/>
 </manifest>
