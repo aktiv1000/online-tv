@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.ml" resolutions="1x" timestamp="1578755557361">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onine-tv.ml" resolutions="1x" timestamp="1579029196218">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4221870716" ref="crypto:index:wallet"/>
-    <file name="crypto.css" crc="3772843609" ref="crypto"/>
-    <file name="index.css" crc="475260994" ref="index"/>
-    <file name="wallet.css" crc="295945198" ref="wallet"/>
+    <file name="master_a-master.css" crc="4068306538" ref="index:crypto:wallet"/>
+    <file name="index.css" crc="159949921" ref="index"/>
+    <file name="crypto.css" crc="4045918878" ref="crypto"/>
+    <file name="wallet.css" crc="3863600136" ref="wallet"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crypto:wallet"/>
@@ -48,7 +48,7 @@
       <caption webpage="wallet" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="180805998" seo="true" mt="1578755521157" redirect="true"/>
-  <file name="crypto.html" crc="375471677" seo="true" mt="1578755521157" redirect="true"/>
-  <file name="wallet.html" crc="4059297815" seo="true" mt="1578755521157" redirect="true"/>
+  <file name="index.html" crc="136675445" seo="true" mt="1579029154384" redirect="true"/>
+  <file name="crypto.html" crc="9747938" seo="true" mt="1579029154384" redirect="true"/>
+  <file name="wallet.html" crc="3989357028" seo="true" mt="1579029154384" redirect="true"/>
 </manifest>
