@@ -1,21 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://onine-tv.ml/index.html</loc>
-    <lastmod>2020-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://onine-tv.ml/crypto.html</loc>
-    <lastmod>2020-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://onine-tv.ml/wallet.html</loc>
-    <lastmod>2020-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://porno-rus.info/sitemap.xml?type=other</loc>
+		<lastmod>2020-04-09</lastmod>
+	</sitemap>
+
+			<sitemap>
+			<loc>https://porno-rus.info/sitemap.xml?type=categories_videos</loc>
+			<lastmod>2020-04-09</lastmod>
+		</sitemap>
+			
+	
+	
+			<sitemap>
+			<loc>https://porno-rus.info/sitemap.xml?type=tags_videos</loc>
+			<lastmod>2020-04-09</lastmod>
+		</sitemap>
+
+			
+	
+	<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=1</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=2</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=3</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=4</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=5</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=6</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=7</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=8</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=9</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=10</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=11</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=12</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=13</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=14</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://porno-rus.info/sitemap.xml?type=videos&amp;from_links_videos=15</loc>
+	<lastmod>2020-04-08</lastmod>
+</sitemap>
+
+		</sitemapindex>
